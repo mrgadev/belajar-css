@@ -1,0 +1,13 @@
+h1 {
+	color: aquamarine;
+	font-family: arial;
+	font-size: 55px;
+	font-variant: small-caps;
+	text-align: center;
+}
+
+p {
+	font-variant: small-caps;
+	font-family: arial;
+	text-align: center;
+}
